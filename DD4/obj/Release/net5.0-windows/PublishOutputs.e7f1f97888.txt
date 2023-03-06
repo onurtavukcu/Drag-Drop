@@ -1,0 +1,5 @@
+C:\Users\adm\Desktop\DragAnd Drop\DD4.exe
+C:\Users\adm\Desktop\DragAnd Drop\DD4.dll
+C:\Users\adm\Desktop\DragAnd Drop\DD4.deps.json
+C:\Users\adm\Desktop\DragAnd Drop\DD4.runtimeconfig.json
+C:\Users\adm\Desktop\DragAnd Drop\DD4.pdb
